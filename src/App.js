@@ -1,6 +1,7 @@
 import { useEffect, useRef, useState } from 'react';
 import './App.css';
 import { Vocabulary } from './vocab';
+import Fuse from 'fuse.js'
 
 
 function App() {
@@ -15,6 +16,9 @@ function App() {
         <span className='subheader'>Lerne Kiswahili Grundlagen Online</span>
       </header>
       <QA className='qa' />
+      <div style={{ height: "15vh" }}></div>
+      <Search />
+      <div style={{ height: "15vh" }}></div>
     </div >
   );
 }
@@ -40,7 +44,7 @@ function QA({ style, className }) {
   // set the initial word
   const randWord = () => { setCurrentWord(getRand(Vocabulary)) }
   return (
-    <div className={className} ref={ref}>
+    <div className={className} style={style} ref={ref}>
       <div className='qaContainer' style={{ display: "flex", flexDirection: wide ? "row" : "column" }}>
         <div className='qaSubContainer' style={{ width: wide ? "30vw" : "60vw", height: wide ? "60vh" : "30vh" }}>
           <span className="languageLabel">deutsch</span>
@@ -54,6 +58,61 @@ function QA({ style, className }) {
       </div>
       <span className='categoryLabel'>kategorie: {(currentWord) && currentWord["category"]}</span>
     </div >
+  );
+}
+
+
+
+function Search({ style }) {
+  const [fuse, setFuse] = useState(null)
+  const [res, setRes] = useState([])
+  const [query, setQuery] = useState("")
+  const searchRef = useRef({ current: null })
+  useEffect(() => {
+    const fuseOptions = {
+      isCaseSensitive: false,
+      // includeScore: false,
+      // shouldSort: true,
+      // includeMatches: false,
+      // findAllMatches: false,
+      // minMatchCharLength: 1,
+      // location: 0,
+      threshold: 0.4,
+      // distance: 100,
+      // useExtendedSearch: false,
+      // ignoreLocation: false,
+      // ignoreFieldNorm: false,
+      // fieldNormWeight: 1,
+      keys: ["de", "tz", "category"]
+    };
+    setFuse(new Fuse(Vocabulary, fuseOptions));
+  }, [])
+  useEffect(() => { console.log(res) }, [res])
+  return (
+    <div className="searchContainer" style={{ ...style }}>
+      <input
+        type="text"
+        value={query}
+        placeholder="Wörter suchen..."
+        className="searchInput"
+        ref={searchRef}
+        style={query === "" ? { color: "#aaa", fontFamily: "MontserratItalic" } : { color: "#141414", fontFamily: "MontserratBold" }}
+        onInput={() => {
+          setQuery(searchRef.current.value)
+          setRes(fuse.search(searchRef.current.value))
+        }} />
+      <div className='searchResContainer'>
+        {/* {JSON.stringify(res)} */}
+        {(query === "" ? Vocabulary : res.map((elem) => elem.item)).map((elem, id) =>
+          <div key={id} style={{ display: "flex", padding: "10px 0px 10px 0px", backgroundColor: id % 2 === 0 ? " #f4f4f4" : " #ededed", ...style }}>
+            <div className="searchResCol">{elem.de}</div>
+            <div className="searchResCol"> {elem.tz}</div>
+            <div className="searchResCol" style={{ textTransform: "capitalize" }}> {elem.category}</div>
+          </div >
+        )
+        }
+      </div>
+    </div>
   );
 }
 

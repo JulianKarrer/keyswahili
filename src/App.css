@@ -19,12 +19,14 @@
   mix-blend-mode: difference;
   color: white;
   font-size: 12.5vmin;
+  font-family: MontserratBold;
 }
 
 .subheader {
   width: 100%;
   display: inline-block;
   text-align: center;
+  font-family: MontserratBold;
 }
 
 .qa {
@@ -73,9 +75,10 @@
   width: 100%;
   text-align: center;
   display: block;
-  font-family: MontserratThin;
+  font-family: MontserratBold;
   margin-top: 10px;
-  text-transform: capitalize;
+  font-size: 15px;
+  text-transform: uppercase;
 }
 
 .goButton {
@@ -98,4 +101,39 @@
 
 .wordP {
   max-width: calc(100% - 90px);
+  font-family: MontserratBold;
+}
+
+.searchInput {
+  font-size: calc(10px + 2vmin);
+  padding: 10px;
+  text-align: center;
+  border-radius: 40px;
+  font-family: MontserratItalic;
+  width: 80%;
+  margin: 30px;
+  border: 2px solid #141414;
+}
+
+.searchContainer {
+  border: 10px solid;
+  border-radius: 40px;
+  width: 80vw;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.searchResContainer {
+  width: 80vw;
+  height: 60vh;
+  overflow-y: scroll;
+  border-radius: 40px;
+}
+
+.searchResCol {
+  text-align: center;
+  max-width: 33%;
+  min-width: 33%;
+  font-size: calc(10px + 1vmin);
 }
