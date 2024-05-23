@@ -1,5 +1,6 @@
 {
   "name": "keyswahili",
+  "homepage": "https://juliankarrer.github.io/keyswahili",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
