@@ -127,9 +127,17 @@
 .searchResContainer {
   width: 80vw;
   height: 60vh;
-  overflow-y: scroll;
-  border-radius: 40px;
+  border-radius: 0px 0px 40px 40px;
+  overflow: hidden;
 }
+
+.searchContainerInner {
+  width: 80vw;
+  height: 60vh;
+  max-height: 60vh;
+  overflow-y: scroll;
+}
+
 
 .searchResCol {
   text-align: center;

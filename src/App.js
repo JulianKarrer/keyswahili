@@ -71,18 +71,7 @@ function Search({ style }) {
   useEffect(() => {
     const fuseOptions = {
       isCaseSensitive: false,
-      // includeScore: false,
-      // shouldSort: true,
-      // includeMatches: false,
-      // findAllMatches: false,
-      // minMatchCharLength: 1,
-      // location: 0,
       threshold: 0.4,
-      // distance: 100,
-      // useExtendedSearch: false,
-      // ignoreLocation: false,
-      // ignoreFieldNorm: false,
-      // fieldNormWeight: 1,
       keys: ["de", "tz", "category"]
     };
     setFuse(new Fuse(Vocabulary, fuseOptions));
@@ -102,15 +91,17 @@ function Search({ style }) {
           setRes(fuse.search(searchRef.current.value))
         }} />
       <div className='searchResContainer'>
-        {/* {JSON.stringify(res)} */}
-        {(query === "" ? Vocabulary : res.map((elem) => elem.item)).map((elem, id) =>
-          <div key={id} style={{ display: "flex", padding: "10px 0px 10px 0px", backgroundColor: id % 2 === 0 ? " #f4f4f4" : " #ededed", ...style }}>
-            <div className="searchResCol">{elem.de}</div>
-            <div className="searchResCol"> {elem.tz}</div>
-            <div className="searchResCol" style={{ textTransform: "capitalize" }}> {elem.category}</div>
-          </div >
-        )
-        }
+        <div className='searchContainerInner'>
+          {/* {JSON.stringify(res)} */}
+          {(query === "" ? Vocabulary : res.map((elem) => elem.item)).map((elem, id) =>
+            <div key={id} style={{ display: "flex", padding: "10px 0px 10px 0px", backgroundColor: id % 2 === 0 ? " #f4f4f4" : " #ededed", ...style }}>
+              <div className="searchResCol">{elem.de}</div>
+              <div className="searchResCol"> {elem.tz}</div>
+              <div className="searchResCol" style={{ textTransform: "capitalize" }}> {elem.category}</div>
+            </div >
+          )
+          }
+        </div>
       </div>
     </div>
   );

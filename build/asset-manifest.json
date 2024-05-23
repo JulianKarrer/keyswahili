@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/keyswahili/static/css/main.75f27c5a.css",
-    "main.js": "/keyswahili/static/js/main.92800edc.js",
+    "main.css": "/keyswahili/static/css/main.42cb6934.css",
+    "main.js": "/keyswahili/static/js/main.c12d1778.js",
     "static/media/Montserrat-ExtraBoldItalic.eot": "/keyswahili/static/media/Montserrat-ExtraBoldItalic.1125a304027e6cf8ff21.eot",
     "static/media/Montserrat-BlackItalic.eot": "/keyswahili/static/media/Montserrat-BlackItalic.c4b3817b94006989b73a.eot",
     "static/media/Montserrat-ExtraBoldItalic.ttf": "/keyswahili/static/media/Montserrat-ExtraBoldItalic.b689f62ff21d2f85be09.ttf",
@@ -76,11 +76,11 @@
     "static/media/Montserrat-Thin.woff2": "/keyswahili/static/media/Montserrat-Thin.3c9e8a5dbf3dde6716e0.woff2",
     "service-worker.js": "/keyswahili/service-worker.js",
     "index.html": "/keyswahili/index.html",
-    "main.75f27c5a.css.map": "/keyswahili/static/css/main.75f27c5a.css.map",
-    "main.92800edc.js.map": "/keyswahili/static/js/main.92800edc.js.map"
+    "main.42cb6934.css.map": "/keyswahili/static/css/main.42cb6934.css.map",
+    "main.c12d1778.js.map": "/keyswahili/static/js/main.c12d1778.js.map"
   },
   "entrypoints": [
-    "static/css/main.75f27c5a.css",
-    "static/js/main.92800edc.js"
+    "static/css/main.42cb6934.css",
+    "static/js/main.c12d1778.js"
   ]
 }
