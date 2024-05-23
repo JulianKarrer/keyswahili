@@ -1,38 +1,101 @@
 .App {
+  background-color: #f4f4f4;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  /* justify-content: center; */
+  font-size: calc(10px + 2vmin);
+  color: #141414;
+}
+
+.headercontainer {
+  margin: 5vmin 5vmin 0 5vmin;
+}
+
+.headerspan {
+  font-style: italic;
+  margin-right: -3.5vmin;
+  mix-blend-mode: difference;
+  color: white;
+  font-size: 12.5vmin;
+}
+
+.subheader {
+  width: 100%;
+  display: inline-block;
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.qa {
+  margin: 5vmin;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+/* rules used inside the qa component */
+
+.qaContainer {
+  width: 60vw;
+  height: 60vh;
+  border: 10px solid #141414;
+  border-radius: 40px;
+  overflow: hidden;
+  background: #141414;
+  position: relative;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.qaSubContainer {
+  margin: 1px;
+  background: #f4f4f4;
   display: flex;
+  align-items: center;
   flex-direction: column;
+  position: relative;
+}
+
+.languageLabel {
+  /* font-style: italic; */
+  text-transform: uppercase;
+  margin: 15px;
+  color: #141414;
+  font-family: MontserratThin;
+}
+
+.wordsContainer {
+  width: 100%;
+  height: 100%;
+  display: flex;
   align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  position: absolute;
 }
 
-.App-link {
-  color: #61dafb;
+.categoryLabel {
+  width: 100%;
+  text-align: center;
+  display: block;
+  font-family: MontserratThin;
+  margin-top: 10px;
+  text-transform: capitalize;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.goButton {
+  top: 50%;
+  position: absolute;
+  left: 50%;
+  transform: translate3d(-50%, -50%, 0);
+  background-color: #141414;
+  border: 2px solid #141414;
+  color: #f4f4f4;
+  padding: 20px 20px;
+  text-align: center;
+  display: inline-block;
+  font-size: 25px;
+  border-radius: 50%;
+  aspect-ratio: 1;
+  font-family: MontserratBold;
+  cursor: pointer;
+}
+
+.wordP {
+  max-width: calc(100% - 90px);
 }

@@ -1,6 +1,57 @@
+@font-face {
+  font-family: 'MontserratThinItalic';
+  src: url('./fonts/Montserrat-ThinItalic.eot');
+  src: url('./fonts/Montserrat-ThinItalic.eot?#iefix') format('embedded-opentype'),
+    url('./fonts/Montserrat-ThinItalic.woff2') format('woff2'),
+    url('./fonts/Montserrat-ThinItalic.woff') format('woff'),
+    url('./fonts/Montserrat-ThinItalic.ttf') format('truetype');
+  font-weight: 100;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'MontserratThin';
+  src: url('./fonts/Montserrat-Thin.eot');
+  src: url('./fonts/Montserrat-Thin.eot?#iefix') format('embedded-opentype'),
+    url('./fonts/Montserrat-Thin.woff2') format('woff2'),
+    url('./fonts/Montserrat-Thin.woff') format('woff'),
+    url('./fonts/Montserrat-Thin.ttf') format('truetype');
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'MontserratBoldItalic';
+  src: url('./fonts/Montserrat-BoldItalic.eot');
+  src: url('./fonts/Montserrat-BoldItalic.eot?#iefix') format('embedded-opentype'),
+    url('./fonts/Montserrat-BoldItalic.woff2') format('woff2'),
+    url('./fonts/Montserrat-BoldItalic.woff') format('woff'),
+    url('./fonts/Montserrat-BoldItalic.ttf') format('truetype');
+  font-weight: bold;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'MontserratBold';
+  src: url('./fonts/Montserrat-Bold.eot');
+  src: url('./fonts/Montserrat-Bold.eot?#iefix') format('embedded-opentype'),
+    url('./fonts/Montserrat-Bold.woff2') format('woff2'),
+    url('./fonts/Montserrat-Bold.woff') format('woff'),
+    url('./fonts/Montserrat-Bold.ttf') format('truetype');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+
+
+
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+  font-family: 'MontserratBold', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
   -webkit-font-smoothing: antialiased;
