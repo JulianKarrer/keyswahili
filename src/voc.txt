@@ -1,66 +1,66 @@
 %VERBEN
-lala#schlafen
-amka#aufstehen/aufwachen
+*lala#schlafen
+*amka#aufstehen/aufwachen
 piga mswaki#zähneputzen
-oga#duschen
+*oga#duschen
 vaa#anziehen
 vua#ausziehen
-pika#kochen
-kunyua#trinken
-kula#essen
-soma#lesen, lernen
-andika#schreiben
-sikiliza#zuhören
+*pika#kochen
+*kunyua#trinken
+*kula#essen
+*soma#lesen, lernen
+*andika#schreiben
+*sikiliza#zuhören
 zungumza#reden, quatschen
 angalia#anschauen
 lia#weinen
-piga simu#telephonieren
+*piga simu#telephonieren
 piga picha#photographieren
 piga pasi#bügeln
 fua#waschen (klamotten)
 cheza#spielen, tanzen
-endesha#fahren
-nunua#kaufen
+*endesha#fahren
+*nunua#kaufen
 uza#verkaufen
-lipa#bezahlen
-fikiri#denken
+*lipa#bezahlen
+*fikiri#denken
 kaa#verbleiben, sitzen
-toka#herkommen, aus ... kommen
-itwa#heißen
-kuja#kommen
-enda#gehen, sich fortbewegen
+*toka#herkommen, aus ... kommen
+*itwa#heißen
+*kuja#kommen
+*enda#gehen, sich fortbewegen
 rudi#zurückkommen
-subiri#warten
-ondoka#verlassen
+*subiri#warten
+*ondoka#verlassen
 fundisha#unterrichten
-jifunza#lernen
-weza#können
-elewa#verstehen
-jua#wissen
-chelewa#sich verspäten
+*jifunza#lernen
+*weza#können
+*elewa#verstehen
+*jua#wissen
+*chelewa#sich verspäten
 wahi#pünktlich sein
-choka#müde sein
-pumzika#pause machen, chillen
-taka#wollen
-hitaji#brauchen, müssen
-anza#anfangen
-maliza#aufhören, beenden
-tumia#benutzen
-penda#mögen, lieben
-furahi#glücklich sein, sich freuen
-omba#um etwas bitten, beten
-saidia#helfen
-ongea#sprechen
+*choka#müde sein
+*pumzika#pause machen, chillen
+*taka#wollen
+*hitaji#brauchen, müssen
+*anza#anfangen
+*maliza#aufhören, beenden
+*tumia#benutzen
+*penda#mögen, lieben
+*furahi#glücklich sein, sich freuen
+*omba#um etwas bitten, beten
+*saidia#helfen
+*ongea#sprechen
 funga#schließen, verpacken
 fungua#öffnen
 peleka#bringen, mitbringen
 leta#herbringen
-weka#reinstecken, hinstellen
-jaribu#versuchen, probieren, in Versuchung führen
+*weka#reinstecken, hinstellen
+*jaribu#versuchen, probieren, in Versuchung führen
 kimbia#rennen
 pita#vorbeigehen, ausweichen
 fika#ankommen
-sema#sagen
+*sema#sagen
 piga#schlagen
 tulia#sich beruhigen, runterkommen
 imba#singen
@@ -75,12 +75,12 @@ cheka#lachen
 kuwa#sein
 kumbuka#sich erinnern (auch: vermissen)
 zaliwa#geboren sein
-pata#bekommen, finden
+*pata#bekommen, finden
 tembelea#besuchen
 punguza#verringern
 ambia#sagen
 rudisha#zurückgeben/-bringen
-sahau#vergessen
+*sahau#vergessen
 kutana na#sich treffen mit
 endelea#weitermachen
 paka#anstreichen, malen
@@ -89,7 +89,7 @@ chora#zeichnen
 nuka#stinken
 nukia#duften
 zingua#scherzen
-shika#halten (zB. shika mkono)
+shika (zB. shika mkono)#halten
 vunjika#kaputt sein
 umwa#krank sein, weh tun
 kata#schneiden, sägen
@@ -98,7 +98,7 @@ vuta#ziehen
 sukuma#drücken
 koprinti#ausdrucken
 lalamika#nörgeln, sich beschweren
-onyesha#zeigen
+*onyesha#zeigen
 lewa#betrunken sein
 olewa#(weibl.) verheiratet sein
 oa#(männl.) verheiratet sein
@@ -106,12 +106,12 @@ ogopa#sich fürchten, Angst haben
 isha#ausgehen, leer sein
 acha#aufhören, stoppen
 baki#verbleiben, sich aufhalten
-geuka#sich umdrehen (geuka nyuma)
+geuka (geuka nyuma)#sich umdrehen
 potea#sich verlieren, verloren sein
 kasiriki#wütend/sauer sein
 simama#stehen, stoppen
 shiba#satt sein
-jaa#hunger haben
+*jaa#hunger haben
 kosa#sich vertun/falsch sein
 jibu#antworten
 salimia#grüßen
@@ -163,8 +163,8 @@ ingia#hereinkommen
 wakika#sicher sein
 hama#sich bewegen
 hamisha#etwas bewegen
-shuka#aussteigen
-shusha#jemanden aussteigen lassen/runterlassen
+*shuka#aussteigen
+*shusha#jemanden aussteigen lassen/runterlassen
 dondosha, angusha#runterfallen lassen
 sahihisha#korrigieren
 fuata#folgen
@@ -186,88 +186,88 @@ nenepesha#mästen, fett machen
 fupisha#verkürzen
 hatarisha#etwas gefährlich machen
 ongo#lügen
-safiri#reisen
+*safiri#reisen
 safisha#aufräumen, säubern
 ua#töten
 uma#beißen
 kufa#sterben
-tafuta#suchen
+*tafuta#suchen
 suka#flechten
 rakisisha#vereinfachen (mathematisch)
 taja#nennen
 sima#ausschalten
 azima#ausleihen
-pa#geben
-nja#hungrig sein
+*pa#geben
+*nja#hungrig sein
 sherekia#feiern
 %ADJEKTIVE
-refu#lang,hoch
-dogo#klein
+*refu#lang,hoch
+*dogo#klein
 chafu#dreckig
-zuri#schön, gut
+*zuri#schön, gut
 nene#fett
 chungu#bitter, sauer
-ngapi#wie viel?
+*ngapi#wie viel?
 pya#neu
 vivu#faul
 bovu#kaputt, verrottet
 zito#schwer
 pana#weit
 zima#vollständig, heile
-fupi#kurz, klein
-kubwa#groß
-safi#sauber
-baya#schlecht, hässlich
+*fupi#kurz, klein
+*kubwa#groß
+*safi#sauber
+*baya#schlecht, hässlich
 tamu#lecker, süß
-kali#stark, streng, scharf
+*kali#stark, streng, scharf
 geni#neu (Menschen: Gäste)
-chache#wenige
+*chache#wenige
 gumu#hart, schwer
 tupu#leer
 kavu#trocken, schlicht
 %NOMEN
-mji#Stadt
-choo#Klo, WC
+*mji#Stadt
+*choo#Klo, WC
 chuo#Universität
 picha#Bild
-piki piki#Motorrad
+*piki piki#Motorrad
 musiki#Musik
-kitabu#Buch
+*kitabu#Buch
 barua#Brief
 hisabati#Mathematik
-lugha#Sprache
-(ma)swali#Frage
-(ma)zoezi#Aufgabe
+*lugha#Sprache
+*(ma)swali#Frage
+*(ma)zoezi#Aufgabe
 mwanza#Anfang
 mwisho#Ende
 mfano#Beispiel
-nchi#Land, Nation
+*nchi#Land, Nation
 mti#Baum
 michezo#Spiele,Sport
-meza#Tisch
+*meza#Tisch
 daftari#Heft
 nusu#Hälfte
-robo#Viertel
-(ma)saa#Uhr
-muda#Zeit
-dakika#Minute
-mlima#Berg
-nyumba#Haus
+*robo#Viertel
+*(ma)saa#Uhr
+*muda#Zeit
+*dakika#Minute
+*mlima#Berg
+*nyumba#Haus
 mpira#Ball/Fußball
 sinema#Kino
 ua#Blume
 mshumaa#Kerze
 kalamu#Füller
-penseli#Bleistift
+*penseli#Bleistift
 mkasi#Schere
 mswaki#Zahnbürste
 msikiti#Moschee
 kanisa#Kirche
 kipindi, leseni#Unterrichtsstunde
-kiti#Stuhl
-kitanda#Bett
-pesa/hela#Geld
-basi#Bus
+*kiti#Stuhl
+*kitanda#Bett
+*pesa/hela#Geld
+*basi#Bus
 kabati#Schrank
 ndoo#Eimer
 pasi#Bügeleisen
@@ -275,7 +275,7 @@ mlango#Tür
 dirisha#Fenster
 ngazi#Treppen
 bafu#Badezimmer
-(ma)gari#Auto
+*(ma)gari#Auto
 kikapu#Korb
 mpira wa kikapu#Basketball
 begi#Koffer
@@ -283,13 +283,13 @@ baisikeli#Fahrrad
 ukurasa#Seite
 fimbo ya uchawi#Zauberstab
 uchawi#Magie
-laini#SIM Karte
+*laini#SIM Karte
 nguo#Kleidung
 TV#TV
-bahari#Ozean, Meer
+*bahari#Ozean, Meer
 puru#Pool / Billiard
-(ma)neno#Wort
-shule#Schule
+*(ma)neno#Wort
+*shule#Schule
 mchawi#Magier, Zauberer
 karata#Kartenspiel
 pochi#Beutel, Geldbeutel
@@ -314,11 +314,11 @@ masomo#Studien, Fächer
 njia#Weg
 kijiji#Dorf
 ufaranza#Frankreich
-ujerumani#Deutschland
+*ujerumani#Deutschland
 mshahara#Gehalt
 mto#Fluss
 kinyume#Gegenteil
-chumba#Zimmer
+*chumba#Zimmer
 mahali#Ort
 zamani#Vergangenheit
 ukuta#Wand
@@ -378,14 +378,14 @@ bendera#Flagge
 mazao#Pflanzen, Angebautes
 uzi#Faden
 %KÖRPERTEILE
-jicho - macho#Auge
+*jicho - macho#Auge
 ndevu#Bart
 mdomo#Mund
 pua#Nase
 sura/uso#Gesicht
-kichwa#Kopf
+*kichwa#Kopf
 nywele#Haare
-ubongo#Gehirn
+*ubongo#Gehirn
 sikio#Ohr
 shavu#Backe
 mgongo#Rücken
@@ -393,14 +393,14 @@ moyo#Herz
 shingo#Hals
 ngozi#Haut/Leder
 bega#Schulter
-mkono#Arm/Hand
+*mkono#Arm/Hand
 kifua#Brust/Oberkörper
 kiwiko#Ellbogen
 hipsi#Hüfte
 kitovu#Bauchnabel
-tumbo#Bauch
+*tumbo#Bauch
 tako/kalio#Hintern
-mguu#Bein/Fuß
+*mguu#Bein/Fuß
 mfupa#Knochen
 kidole#Finger/Zehen
 paja#Oberschenkel
@@ -418,10 +418,10 @@ mawani#Brille
 pete#Ring
 gauni#Kleid
 shati#Hemd
-tisheti#T-Shirt
-suruali#Hose
-sketi#Rock
-jaketi/koti#Jacke
+*tisheti#T-Shirt
+*suruali#Hose
+*sketi#Rock
+*jaketi/koti#Jacke
 sweta#Sweater
 chupi#Unterwäsche
 viatu#Schuhe
@@ -431,32 +431,30 @@ soksi#Socken
 %TIERE
 kifaru#Nashorn
 kiboko#Nilpferd
-mbwa#Hund
+*mbwa#Hund
 paka#Katze
-ndege#Vogel / Flugzeug
+*ndege#Vogel / Flugzeug
 farasi#Pferd
 sungura#Hase/Kaninchen
 chui#Leopard
 kipepeo#Schmetterling
 tembo#Elephant
-simba#Löwe
+*simba#Löwe
 nyani#Affe
 ngulule#Schwein
 kasuku#Papagai
 %PERSONEN
 nesi#Krankenpfleger
-daktari#Doktor, Artzt
-polisi#Polizist
 mchungali#Priester
 mpichi#Koch
-mwanafunzi#Schüler
+*mwanafunzi#Schüler
 wazazi#Eltern
-familia#Familie
+*familia#Familie
 watanzania#Tansanier
 mzungu#Reisender, Irrender, (Weißer)
 jirani#Nachbar
-rafiki#Freund
-dereva#Fahrer
+*rafiki#Freund
+*dereva#Fahrer
 rais#Präsident
 polisi/askari#Polizist
 daktari#Doktor med.
@@ -468,15 +466,15 @@ msichana#Mädchen
 mvulana#Junge
 mtu#Person
 mmareani#Amerikaner
-mjerumani#Deutscher
-mwalimu#Lehrer
-mtoto#Kind
+*mjerumani#Deutscher
+*mwalimu#Lehrer
+*mtoto#Kind
 mtalii#Tourist
 kiziwi#Tauber
 kipofu#Blinder
 kijana#Jugendlicher
 kilema#Behinderter
-mzee#Alter Mann
+*mzee#Alter Mann
 mgonjwa#Kranker
 (ma)sikini#Armer
 (ma)tajiri#Reicher
@@ -484,14 +482,14 @@ mfanya kazi#Arbeiter
 mkulima#Bauer
 mlinzi#Wachmann
 kibaka#Einbrecher
-mwenzangu#(mein) Freund, Kamerad
+*mwenzangu#(mein) Freund, Kamerad
 mkurungenzi#Direktor
 mwalimu mkuu#Schulleiter, Rektor
 mwizi#Dieb
 bossi#Boss, Chef
 kiongozi#Anführer, Leiter
 %ESSEN
-mgahawa#Restaurant
+*mgahawa#Restaurant
 tangawizi#Ingwer
 vyombo#Geschirr
 korosho#Cashews
@@ -499,70 +497,103 @@ karanga#Erdnüsse
 juisi#Saft
 nyanya#Tomate
 kikombe#Tasse
-uma#Gabel
-kisu#Messer
-pombe#Alkohol
-jiko#Küche / Herd / Ofen
+*uma#Gabel
+*kisu#Messer
+*pombe#Alkohol
+*jiko#Küche / Herd / Ofen
 chupa#Flasche
 keki#Kuchen
-nyanya#Tomate
-epo#Apfel
+*nyanya#Tomate
+*epo#Apfel
 (ma)chungwa#Orange
-(ma)yai#Ei
+*(ma)yai#Ei
 papai#Papaya
 vitunguu#Zwiebeln
-viazi#Kartoffeln
+*viazi#Kartoffeln
 piza#Pizza
-bia#Bier
-chai#Tee
-Ugali#widerliche Mais-Pampe. pfui
-supu#Suppe
+*bia#Bier
+*chai#Tee
+*Ugali#Mais-Pampe
+*supu#Suppe
 tambi#Nudeln
 mapera#Guaven
-chipsy mayai#Pommes-Omlett
-ndizi#Banane
-chakula#Essen
-soko#Markt
-(ma)tunda#Frucht
+*chipsy mayai#Pommes-Omlett
+*ndizi#Banane
+*chakula#Essen
+*soko#Markt
+*(ma)tunda#Frucht
 maziwa#Milch/Brüste
-kahawa#Kaffee
+*kahawa#Kaffee
 mishkake#Fleischspieße
 nazi#Kokosnuss
 samaki#Fisch
 karafu#Nelken
 %ZEIT
-wiki#Woche
+*wiki#Woche
 tarehe#Datum
-mwezi#Monat
-mwaka#Jahr
-siku#Tag
-usiku#Nacht
-asubuhi#Morgen
-mchana#Mittag/Nachmittag
-jioni#Abend
-jumamosi#Samstag
-jumapili#Sonntag
-jumatatu#Montag
-jumanne#Dienstag
-jumatano#Mittwoch
-alhamisi#Donnerstag
-ijumaa#Freitag
+*mwezi#Monat
+*mwaka#Jahr
+*siku#Tag
+*usiku#Nacht
+*asubuhi#Morgen
+*mchana#Mittag/Nachmittag
+*jioni#Abend
+*jumamosi#Samstag
+*jumapili#Sonntag
+*jumatatu#Montag
+*jumanne#Dienstag
+*jumatano#Mittwoch
+*alhamisi#Donnerstag
+*ijumaa#Freitag
 %PRÄPOSITIONEN
-juu#über
-chini#unter
-karibu#neben/nah
-mbele#vor
-nyuma#hinter
+*juu#über
+*chini#unter
+*karibu#neben/nah
+*mbele#vor
+*nyuma#hinter
 mbali#fern
 kando#entlang
-ndani#drinnen
-nje#draußen
-pembeni#daneben
+*ndani#drinnen
+*nje#draußen
+*pembeni#daneben
 kati ya#(Wahl) zwischen
 katikati#(örtlich) zwischen
-kulia#rechts
-kushoto#links
-moja kwa moja#geradeaus
+*kulia#rechts
+*kushoto#links
+*moja kwa moja#geradeaus
 badala (yangu)#anstatt (mir)
 baada ya#(zeitlich) danach
 kabla ya#(zeitlich) davor
+%ZAHLEN
+*moja#eins (1)
+*mbili#zwei (2)
+*tatu#drei (3)
+*nne#vier (4)
+*tano#fünf (5)
+*sita#sechs (6)
+*saba#sieben (7)
+*nane#acht (8)
+*tisa#neun (9)
+*kumi#zehn (10)
+*kumi na moja#elf (11)
+*kumi na mbili#zwölf (12)
+*kumi na tatu#dreizehn (13)
+*kumi na nne#vierzehn (14)
+*kumi na tano#fünfzehn (15)
+*kumi na sita#sechzehn (16)
+*kumi na saba#siebzehn (17)
+*kumi na nane#achtzehn (18)
+*kumi na tisa#neunzehn (19)
+*ishirini#zwanzig (20)
+thelathini#dreißig (30)
+arobaini#vierzig (40)
+hamsini#fünfzig (50)
+sitini#sechzig (60)
+sabini#siebzig (70)
+themanini#achtzig (80)
+tisini#neunzig (90)
+*mia moja#hundert (100)
+*mia mbili#zweihundert (200)
+*elfu moja#tausend (1000)
+laki moja#hundert tausend (100 000)
+milioni#eine Million (1 000 000)
